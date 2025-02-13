@@ -35,7 +35,8 @@ This FSM is explicitly coded using an enumerated type for state representation a
 <!-- STATE TRANSITION DIAGRAM -->
 ## State Transition Diagram
 
-_(Insert FSM state transition diagram here)_
+![WhatsApp Image 2025-02-12 at 17 40 53_5f7c2a53](https://github.com/user-attachments/assets/85fb38bf-3e62-420e-aba8-919e6b19a4d6)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
