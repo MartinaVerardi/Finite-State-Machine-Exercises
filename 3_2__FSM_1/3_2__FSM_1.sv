@@ -1,5 +1,7 @@
 /*
 
+Mealy Machine
+
 Write a SystemVerilog module for the FSM defined in the following state transitioning diagram.
 The input ordering is i and j. The output ordering is x and y. Use an enumeration to define the 
 state names. Write an explicit FSM. Write a testbench to test your FSM using an implicit FSM.
