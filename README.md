@@ -16,7 +16,6 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#folder-contents">Folder Contents</a></li>
-    <li><a href="#state-transition-diagrams">State Transition Diagrams</a></li>
     <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
@@ -44,14 +43,7 @@ Each implementation demonstrates different approaches to FSM design, including s
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- STATE TRANSITION DIAGRAMS -->
-## State Transition Diagrams
 
-_(Insert FSM state transition diagrams for both Mealy and Moore implementations here)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- USAGE -->
 ## Usage
 
 To simulate the FSMs, use a SystemVerilog simulator such as ModelSim, QuestaSim, or Vivado.
