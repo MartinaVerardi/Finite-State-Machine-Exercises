@@ -27,7 +27,7 @@ This repository contains three different implementations of a finite state machi
 
 1. **Mealy Machine FSM** - Outputs depend on both the state and the inputs.
 2. **Moore Machine FSM** - Outputs depend only on the state.
-3. **Explicit FSM with Testbench** - A structured FSM with a corresponding testbench for validation.
+3. **8 Bit Register FSM** 
 
 Each implementation demonstrates different approaches to FSM design, including state transitions, output logic, and sequential vs. combinational logic separation.
 
@@ -36,9 +36,9 @@ Each implementation demonstrates different approaches to FSM design, including s
 <!-- FOLDER CONTENTS -->
 ## Folder Contents
 
-- `FSMprob_mealy.sv` - SystemVerilog implementation of a Mealy machine FSM.
-- `FSMprob_moore.sv` - SystemVerilog implementation of a Moore machine FSM.
-- `FSMprob_testbench.sv` - Testbench for FSM validation.
+- `3_1__8_bit_register` - SystemVerilog implementation of an 8 bit Register.
+- `3_2__FSM_1` - SystemVerilog implementation of a Mealy machine FSM.
+- `3_3__FSM_2` - SystemVerilog implementation of a Moore machine FSM.
 - `README.md` - Documentation for the FSM implementations.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
